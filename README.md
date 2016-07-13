@@ -13,3 +13,5 @@ However, we encourage the use of the GitHub *issues* feature to allow for thread
 * **[Transition Process](transition-process.md)**
 * **[Observations](benefits-and-observations.md)**
 * **[F.A.Q.](FAQ.md)**
+
+Read at [https://ieee-security.github.io/ongoing-submission-plan/](https://ieee-security.github.io/ongoing-submission-plan/)
