@@ -2,7 +2,7 @@
 
 1. Today, there’s a 6.5 month gap between when a paper is submitted to Oakland and when it is officially published.  There’s also a ~3 month gap between submission and notification.  With the new system, the gap between submission and notification will be 1.5 months, and the gap between submission and publication could be as little as 2 months.  With Revisions, it will more likely be 3-4 months between submission and publication, but that’s still more rapid, and will also result in significantly improved papers that might otherwise have been rejected.
 
-2. If you measure between completion of the research and publication, the improvement is even more dramatic, since in the current system, any idea completed after mid-November must wait up to 12 months just for submission.  
+2. If you measure between completion of the research and publication, the improvement is more dramatic. In the current system, any idea completed after mid-November must wait up to 12 months just for submission to the next S&P. Submitting, instead, to the next top conference (USENIX Security) lowers the gap to 3 months, which is still significant. With the proposed system, authors will be able to submit a paper within a month of its completion date.
 
 3. By delaying the start of the steady state system until June, 2017, we’ll have a full year to flesh out all of the details in a transparent manner based on input from the community.  We will also have the opportunity to “abort” the transition at the 2017 business meeting if the system looks problematic (for example, if we cannot find enough PC members willing to participate in the new format).
 
