@@ -23,7 +23,7 @@
 * Month X+1, Day 15: Decision reached.  Associate Chair responsible for driving discussions to a conclusion.  
    * A decision is one of: Reject, Revise, or Accept.
       * Associate Chairs make a recommendation to the Chairs, who make the final decision.
-   * Rejected papers are banned from resubmission for one year, as of date of submission 
+   * Rejected papers must wait for one year, from the date of original submission, to resubmit.
       * The policy on what distinguishes a new submission from a resubmission will need to be tuned over time.  If a paper is from the same or similar authors, and a reviewer could write a substantially similar summary of the paper compared with the original submission, then the paper will be considered a resubmission and subject to the one-year moratorium.
    * Accepted papers will be expected to submit a camera-ready copy by the end of Month X+1 to be published online.  Late submissions will be published as part of the Month X+2 batch.
       * Submission should include delta from submission
