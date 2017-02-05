@@ -43,7 +43,8 @@
       * 80-85% of papers will be Rejected
       * Overall, the goal is to maintain or raise the current quality bar, rather than necessarily meeting a particular acceptance ratio.
    * For revised papers, the expectation is that:
-      * The vast majority (over 80%) will be Accepted.[d][e][f][g][h]  Follow the same camera-ready procedure as above
+      * The vast majority (over 80%) will be Accepted.
+        * Follow the same camera-ready procedure as above
       * A small number will be Rejected.  Such papers will be subject to the standard 12-month moratorium, starting from the submission of the Revision.
       * Further revisions are only expected in extreme cases.
 
