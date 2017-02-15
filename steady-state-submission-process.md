@@ -16,9 +16,11 @@
 * By Month X, Day 5: Cutoff for papers to be Withdrawn without penalty.  After this point, a Withdrawn paper is subject to a 12-month moratorium from the date of submission.
    * This moratorium (as well as all others mentioned in this document) only applies to submission to IEEE S&P.  Authors are free to resubmit elsewhere or to post their publications online.
 
-* Month X+1, Day 1: Initial reviews due.  Discussion period begins.
-   * PC members will be encouraged to participate in the discussion of all papers they are not conflicted with.  
+* Month X+1, Day 1: Initial reviews due.  Discussion period begin.
+   * For each paper, 3-5 PC members who did not review the paper will be assigned to sanity-check the reviews and participate in the discussion.
+   * PC members will be able to see all reviews for all papers they are not conflicted with, and PC members will be encouraged to participate in the discussion of all such papers. 
       * Chairs/Associate Chairs will disseminate a list (appropriately redacted for conflicts) of papers likely to be accepted to encourage further discussion.
+   * Chairs and Associate Chairs may solicit additional reviews.
 
 * Month X+1, Day 15: Decision reached.  Associate Chair responsible for driving discussions to a conclusion.  
    * A decision is one of: Reject, Revise, or Accept.

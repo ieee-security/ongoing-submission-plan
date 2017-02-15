@@ -28,6 +28,12 @@ A physical PC meeting offers several benefits:
 
   Possible alternatives include virtual PC meetings or holding a PC meeting to assign presentation slots of varying lengths to the papers that have been accepted to date.
 
+1. **How will we maintain transparency in the review process?**
+   1. As with the traditional review process, once a PC member submits their reviews, they will be able to see reviews and discussion for all other papers.  
+   1. Lists of papers that seem likely to be accepted or rejected will be disseminated to the PC throughout the process so as to encourage more interest in the process.
+   1. Additional non-reviewer PC members will be assigned to each paper to evaluate the reviews and participate in the discussion.
+   1. As discussed below, we will gather data before and after the transition in order to quantitatively evaluate the effectiveness of the new process.
+
 1. **Are we keeping the special bulk-submission handling, introduced for 2016?**
    1. For 2017 only; after we transition, it will no longer apply
 
