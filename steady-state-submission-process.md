@@ -57,4 +57,7 @@
    * Associate Chairs will be handled similarly: After one year of service, their only obligation for the following three months will be to conclude decisions on revised papers.
    * We  will also continue the standard practice of ensuring reasonable overlap between consecutive PCs in order to ensure consistency
 
+* PC Meeting
+  * A PC meeting serves multiple useful functions that the community is reluctant to abandon entirely.  Hence, we will still have a PC meeting, likely in conjunction with the main conference or a related conference (e.g., NDSS), where the focus will be on assessing the accepted papers.  For example, the meeting may be used to decide on Distinguished-Paper awards and a larger pool of Honorable Mentions.
+
 

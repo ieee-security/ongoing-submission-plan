@@ -24,9 +24,9 @@ A physical PC meeting offers several benefits:
         
   While these are important benefits, note that all but ii.a benefit only (or primarily) members of the PC itself, a rather small subset of the overall security community.  It also comes at the cost of two long days of work plus associated travel time and expenses.
 
-  We hope that the conference itself is a valuable venue for networking and learning about the state of the art in the community.  Nonetheless, we are interested in trying to preserve some of the benefits discussed above, particularly maintaining uniform standards across areas.
+  We hope that the conference itself is a valuable venue for networking and learning about the state of the art in the community.  Nonetheless, we are interested in trying to preserve some of the benefits discussed above, particularly maintaining uniform standards across areas.  The current plan is to hold a PC meeting immediately preceding the conference itself to  decide on Distinguished Paper Awards and a larger pool of Honorable Mentions.
 
-  Possible approaches include virtual PC meetings, or a PC meeting immediately preceding the conference itself to  decide on, say, Distinguished Paper Awards.  Another alternative would be to hold a PC meeting to assign presentation slots of varying lengths to the papers that have been accepted to date.
+  Possible alternatives include virtual PC meetings or holding a PC meeting to assign presentation slots of varying lengths to the papers that have been accepted to date.
 
 1. **Are we keeping the special bulk-submission handling, introduced for 2016?**
    1. For 2017 only; after we transition, it will no longer apply
