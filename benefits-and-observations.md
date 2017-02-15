@@ -4,7 +4,7 @@
 
 2. If you measure between completion of the research and publication, the improvement is more dramatic. In the current system, any idea completed after mid-November must wait up to 12 months just for submission to the next S&P. Submitting, instead, to the next top conference (USENIX Security) lowers the gap to 3 months, which is still significant. With the proposed system, authors will be able to submit a paper within a month of its completion date.
 
-3. By delaying the start of the steady state system until June, 2017, we’ll have a full year to flesh out all of the details in a transparent manner based on input from the community.  We will also have the opportunity to “abort” the transition at the 2017 business meeting if the system looks problematic (for example, if we cannot find enough PC members willing to participate in the new format).
+3. By delaying the start of the steady state system until July, 2017, we’ll have a full year to flesh out all of the details in a transparent manner based on input from the community.  We will also have the opportunity to “abort” the transition at the 2017 business meeting if the system looks problematic (for example, if we cannot find enough PC members willing to participate in the new format).
 
 4. The last possible deadline to submit a paper and have it appear at the conference will be January 1st.  However, only papers that are accepted without Revisions will be accepted in time.  If Revisions are required, then papers must be submitted by December 1st.  Even then, authors will be gambling that the Revisions requested will be small enough to be addressed in two weeks or less.  The much safer option will be to submit by November 1st, or ideally, even earlier.
 
