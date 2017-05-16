@@ -13,20 +13,18 @@
    1. No.  While we are borrowing elements of the journal review process, the Symposium will still be held annually, and papers that are accepted through this process will still be described as being part of the Proceedings of the Symposium.  It’s possible that at some point the community will decide to convert this into a journal publication instead, but that remains a separate decision.
 
 1. **Will there still be a PC meeting?**
-A physical PC meeting offers several benefits:
-  1. Networking
-     1. Amongst PC members
-     2. Exposure for new PC members
-  1. Standards
-     1. Setting uniform standards across areas (e.g., for quality and ethics)
-     2. Helping new PC members learn community standards
-  1. Allow PC members to learn about trends in the community
+    1. A physical PC meeting offers several benefits:
+        1. Networking
+            1. Amongst PC members
+            2. Exposure for new PC members
+    1. Standards
+        1. Setting uniform standards across areas (e.g., for quality and ethics)
+        2. Helping new PC members learn community standards
+    1. Allow PC members to learn about trends in the community
         
-  While these are important benefits, note that all but ii.a benefit only (or primarily) members of the PC itself, a rather small subset of the overall security community.  It also comes at the cost of two long days of work plus associated travel time and expenses.
-
-  We hope that the conference itself is a valuable venue for networking and learning about the state of the art in the community.  Nonetheless, we are interested in trying to preserve some of the benefits discussed above, particularly maintaining uniform standards across areas.  The current plan is to hold a PC meeting immediately preceding the conference itself to  decide on Distinguished Paper Awards and a larger pool of Honorable Mentions.
-
-  Possible alternatives include virtual PC meetings or holding a PC meeting to assign presentation slots of varying lengths to the papers that have been accepted to date.
+    While these are important benefits, note that all but ii.a benefit only (or primarily) members of the PC itself, a rather small subset of the overall security community.  It also comes at the cost of two long days of work plus associated travel time and expenses.
+    We hope that the conference itself is a valuable venue for networking and learning about the state of the art in the community.  Nonetheless, we are interested in trying to preserve some of the benefits discussed above, particularly maintaining uniform standards across areas.  The current plan is to hold a PC meeting immediately preceding the conference itself to  decide on Distinguished Paper Awards and a larger pool of Honorable Mentions.
+   Possible alternatives include virtual PC meetings or holding a PC meeting to assign presentation slots of varying lengths to the papers that have been accepted to date.
 
 1. **How will we maintain transparency in the review process?**
    1. As with the traditional review process, once a PC member submits their reviews, they will be able to see reviews and discussion for all other papers.  
