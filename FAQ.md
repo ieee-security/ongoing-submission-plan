@@ -33,13 +33,13 @@
    1. As discussed below, we will gather data before and after the transition in order to quantitatively evaluate the effectiveness of the new process.
 
 1. **Are we keeping the special bulk-submission handling, introduced for 2016?**
-   1. For 2017 only; after we transition, it will no longer apply
+   1. No, in the new submission model, we do not plan to have special rules for bulk submissions.
 
 1. **Are we keeping the appeals process?**
-   1. Yes, but only for rejected papers.  Those papers can appeal to the PC chairs in 2017, and to the Associate Chairs after the transition.
+   1. Yes, but only for rejected papers.  Those papers can appeal to the Associate Chairs.
 
 1. **Are we keeping the Student PC review process?**
-   1. Yes, we will try to repeat at least in 2017.  Unclear for longer term.
+   1. At present, it is unclear whether it will make sense to hold a Student PC meeting, given the new submission process.  
 
 1. **How will this affect my students’ ability to get jobs, or my ability to get tenure?**
    1. Enabling students to get jobs (or faculty to get tenure) should be the consequence of performing high quality science.  The new process should enhance both.  Other communities who have adopted this approach have seen a noted improvement in paper quality.  The new process should also allow faster turnaround, making it more likely that you and/or your students can include a paper acceptance on a CV.
